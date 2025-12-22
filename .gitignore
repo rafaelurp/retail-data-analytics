@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos grandes
+data/raw/*.csv
+data/processed/*.csv
+
+# Power BI
+*.pbix
+
+# Jupyter
+.ipynb_checkpoints/
